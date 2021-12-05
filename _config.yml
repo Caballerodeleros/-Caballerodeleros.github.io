@@ -1,5 +1,5 @@
-name: Twister
-description: a powerful jekyll theme
+name: Caballero Del Eros Oficial
+description: Una enciclopedia del erotismo, un zorro elegante. 
 url: #place url
 gems: [jekyll-paginate]
 baseurl: #place folder name if site is served in subfolder
@@ -15,9 +15,9 @@ author_default_avatar: /profile-pic.jpg
 tumblr: "#"
 pinterest: "#"
 instagram: "#"
-twitter: "#"
+twitter: CaballeroDeEros
 facebook: "#"
-youtube: "#"
+youtube: channel/UC98FAQqOrR8Ywo6y1DbEaRg
 vimeo: "#"
 soundcloud: "#"
 
