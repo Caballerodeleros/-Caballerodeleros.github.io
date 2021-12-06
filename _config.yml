@@ -14,11 +14,8 @@ media_folder: /img
 author_default_avatar: /profile-pic.jpg
 pinterest: "#"
 instagram: "#"
-twitter: CaballeroDeEros
-facebook: "#"
+twitter: "https://twitter.com/CaballeroDeEros"
 youtube: "https://www.youtube.com/channel/UC98FAQqOrR8Ywo6y1DbEaRg"
-vimeo: "#"
-soundcloud: "#"
 
 encoding: utf-8
 defaults:
