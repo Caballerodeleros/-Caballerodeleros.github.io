@@ -58,6 +58,10 @@
             max-width: 750px;
             width: 50%;
 
+            svg{
+                @extend %paddinghack;
+
+
             }
         }
 
