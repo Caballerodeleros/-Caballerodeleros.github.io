@@ -4,7 +4,6 @@ type: vimeo
 vimeo-embed: <iframe src="https://www.pornhub.com/embed/ph6101d69b82e35" frameborder="0" width="500" height="281" scrolling="no" allowfullscreen></iframe>
 title: Mira Este Video Antes De Masturbarte
 homedisplay: iframe
-tags: [video, iframe]
 category: [Sex Ed]
 ---
 ¿Alguna vez te has sentido culpable por masturbarte? 
