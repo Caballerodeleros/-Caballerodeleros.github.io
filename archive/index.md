@@ -21,7 +21,7 @@ title: Archive
             Sex Ed
         </span>
     <a href="/prnbueno/">
-        <h1>Ver Pornografía NO Es Malo</h1>
+        <h3>Ver Pornografía NO Es Malo</h3>
     </a>
     <p class="post_content">Un cuestionamiento biológico y moral, que incluso en la actualidad, encontrarás respuestas bastante variadas al...</p>
     <span class="date"><i class="fa fa-calendar"></i> August 07, 2021</span>
