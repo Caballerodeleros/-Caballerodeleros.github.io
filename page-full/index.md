@@ -1,6 +1,5 @@
 ---
 layout: page_full
-featimg: 6.jpg
 title: Podcast S&E
 ---
 ## This is a full-width static page
