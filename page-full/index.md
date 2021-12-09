@@ -1,7 +1,7 @@
 ---
 layout: page_full
 featimg: 6.jpg
-title: Page
+title: SEX ED
 ---
 ## This is a full-width static page
 
