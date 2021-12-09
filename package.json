@@ -1,11 +1,11 @@
 {
   "name": "Caballero Del Eros",
   "description": "Un sitio de seducción y erotismo, educación sexual y estilo de vida.",
-  "author": "Digitalmind <info@digitalmind.ch>",
+  "author": "Caballero Del Eros>",
   "version": "1.0.0",
   "repository": {
       "type": "git",
-      "url": "https://github.com"
+      "url": ""
   },
   "devDependencies": {
     "grunt": "^0.4.5",
