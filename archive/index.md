@@ -35,7 +35,7 @@ title: Archive
             Sex Ed
         </span>
     <a href="/bkake/">
-        <h1>Consejos Para Practicar Bukkake</h1>
+        <h3>Consejos Para Practicar Bukkake</h3>
     </a>
     <p class="post_content">Innovador y controversial. Son conceptos que mejor describen al Bukkake. ¿Conoces su historia? ¿Celebración o...</p>
     <span class="date"><i class="fa fa-calendar"></i> August 06, 2021</span>
@@ -63,7 +63,7 @@ title: Archive
             Sex Ed
         </span>
     <a href="/autoerotismo/">
-        <h1>Mira Este Video Antes De Masturbarte</h1>
+        <h3>Mira Este Video Antes De Masturbarte</h3>
     </a>
     <p class="post_content">¿Alguna vez te has sentido culpable por masturbarte? Pues entonces tú y yo tenemos que...</p>
     <span class="date"><i class="fa fa-calendar"></i> August 04, 2021</span>
