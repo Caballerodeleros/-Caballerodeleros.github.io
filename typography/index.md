@@ -9,4 +9,4 @@ title: Colaboraciones
 2. Si realizas contenido para **Pornhub** u otra página asociada, eres modelo de webcam o contribuyes con material de temática erótica para plataformas como Patreon u Onlyfans. Podemos colaborar juntos.
 <br>
 ####Puedes ponerte en contacto al siguiente correo electrónico:
-> mail@gmail.com
+> mail@gmail.com 
