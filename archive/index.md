@@ -3,7 +3,7 @@ layout: page
 title: Archive
 ---
 ## by Month
-{% include article_index_short.html %}
+{% include article_index.html %}
 
 <br/>
 
