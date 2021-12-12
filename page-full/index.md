@@ -2,9 +2,11 @@
 layout: page_full
 title: Podcast S&E
 ---
-## This is a full-width static page
+S&E (*Seducción y Erotismo*) es un espacio en el que hablamos sobre **dinámicas sociales**, con la intención de mejorar la manera en la que interactuamos con otras personas.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Suscipit voluptatibus, assumenda perspiciatis vel eos, molestias nisi cum accusantium commodi amet modi repellendus. Nostrum iure fugiat ducimus quae nesciunt distinctio ullam.
+Saber cómo actuar en ciertas situaciones o conocer reglas de etiqueta para dar una mejor impresión, es la diferencia para lograr tus objetivos. Es por ello que me dedico a hacer un compendio de temas que te servirán para saber cómo manejarte con el **sexo opuesto**, **aprender a ligar**, conseguir **pareja sexual** o cuál sea tu objetivo.
+
+Al final, mi intención es que logres rodearte de personas adecuadas y que aporten a tu vida.
 
 
 
