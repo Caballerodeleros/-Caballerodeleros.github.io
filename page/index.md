@@ -13,9 +13,6 @@ Tal como si lo platicaras con tu mejor amigo, como si tuvieras un **sexólogo de
 <br>
 <br>
 <br> 
-<br> 
-<br> 
-<br> 
 <div class="articles">
     
         <article>
