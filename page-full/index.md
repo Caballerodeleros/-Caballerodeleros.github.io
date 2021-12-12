@@ -11,9 +11,6 @@ Al final, mi intención es que logres rodearte de personas adecuadas y que aport
 <br> 
 <br>
 <br> 
-<br>
-<br> 
-<br> 
 <div class="articles">
     
     <article>
