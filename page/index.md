@@ -1,6 +1,7 @@
 ---
 layout: page_full
 title: SEX ED
+featimg: SXED.jpg
 ---
 *Eso de lo que siempre has querido hablar, pero te has avergonzado de preguntar.*
 <br><br>
