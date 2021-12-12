@@ -2,7 +2,7 @@
 layout: page_full
 title: SEX ED
 ---
->*Eso de lo que siempre has querido hablar, pero te has avergonzado de preguntar.*
+*Eso de lo que siempre has querido hablar, pero te has avergonzado de preguntar.*
 <br><br>
 En **SexEd** hablamos de salud sexual, prácticas alternativas, métodos seguros y todo lo implicado a vivenciar tu sexualidad de una forma plena y divertida.
 <br><br>
