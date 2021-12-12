@@ -5,11 +5,11 @@ title: SEX ED
 *Eso de lo que siempre has querido hablar, pero te has avergonzado de preguntar.*
 
 
-En SexEd hablamos de salud sexual, prácticas alternativas, métodos seguros y todo lo implicado a vivenciar tu sexualidad de una forma plena y divertida.
+En **SexEd** hablamos de salud sexual, prácticas alternativas, métodos seguros y todo lo implicado a vivenciar tu sexualidad de una forma plena y divertida.
 
-El Caballero Del Erotismo es un profesional en temas de mente y sexualidad humana. Por lo cual, puedes confiar en que todo el contenido analizado es tratado sin prejuicios de ningún tipo y con un lenguaje práctico.
+El **Caballero Del Erotismo** es un profesional en temas de mente y sexualidad humana. Por lo cual, puedes confiar en que todo el contenido analizado es tratado sin prejuicios de ningún tipo y con un lenguaje práctico.
 
-Tal como si lo platicaras con tu mejor amigo, como si tuvieras un sexólogo de cabecera.
+Tal como si lo platicaras con tu mejor amigo, como si tuvieras un **sexólogo de cabecera**.
 
 
 <div class="articles">
