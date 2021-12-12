@@ -1,6 +1,7 @@
 ---
 layout: page_full
 title: Podcast S&E
+featimg: SYE.jpg
 ---
 S&E (*Seducción y Erotismo*) es un espacio en el que hablamos sobre **dinámicas sociales**, con la intención de mejorar la manera en la que interactuamos con otras personas.
 <br><br> 
