@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Archive
+featimg: ENTRE.jpg
 ---
 ## El Caballero Del Erotismo desea conocerte
 <br>
