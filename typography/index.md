@@ -1,15 +1,16 @@
 ---
 layout: page
 title: Colaboraciones
+featimg: colabora.jpg
 ---
   
 ## El Caballero Del Erotismo desea conocerte
 <br>
 <br>
-**PROMOCIÓN DE SALUD SEXUAL**
+**PROMOCIÓN DE LA SALUD SEXUAL**
 <br>
 <br> 
-Si eres una marca o distribuidor de un producto encaminado a la _salud sexual_ y/o que permita mejorar la vida sexual de las personas. Podemos colaborar mediante la promoción de tus productos en los sitios oficiales del **caballero del erotismo** o mediante la revisión de tu producto en alguna capsula de video informativa.
+Si eres una marca y/o distribuidor de un producto encaminado a la _salud sexual_ o que permita mejorar la vida sexual de las personas. Podemos colaborar mediante la promoción de tus productos en los sitios oficiales del **caballero del erotismo** o mediante la revisión de tu producto en alguna capsula de video informativa.
 <br>
 <br> 
 **COLABORACIÓN CON MODELOS**
