@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Archive
+title: Entrevistas
 featimg: ENTRE.jpg
 ---
 ## El Caballero Del Erotismo desea conocerte
