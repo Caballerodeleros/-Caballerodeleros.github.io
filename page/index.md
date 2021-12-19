@@ -14,7 +14,22 @@ Tal como si lo platicaras con tu mejor amigo, como si tuvieras un **sexólogo de
 <br>
 <br> 
 <div class="articles">
-    
+
+        <article>
+                <div class="video_container">
+                    <iframe src="https://www.pornhub.com/embed/ph61bc018a995c7" scrolling="no" allowfullscreen="" width="500" height="281" frameborder="0"></iframe>
+                </div>
+        <span class="category">
+            Sex Ed
+        </span>
+    <a href="/precoz/">
+        <h3>¿Cómo lidiar con la eyaculación precoz?</h3>
+    </a>
+    <p class="post_content">La eyaculación precoz es una condición más común de lo que piensas. Sus causas pueden...</p>
+    <span class="date"><i class="fa fa-calendar"></i> December 17, 2021</span>
+</article>
+
+
         <article>
                 <div class="video_container">
                     <iframe src="https://www.pornhub.com/embed/ph6195cf11e09dd" scrolling="no" allowfullscreen="" width="500" height="281" frameborder="0"></iframe>
