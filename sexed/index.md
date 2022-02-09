@@ -15,6 +15,22 @@ Tal como si lo platicaras con tu mejor amigo, como si tuvieras un **sexólogo de
 <br> 
 <div class="articles">
 
+        
+        <article>
+                <div class="video_container">
+                    <iframe src="https://www.pornhub.com/embed/ph6201b137a2f85" scrolling="no" allowfullscreen="" width="500" height="281" frameborder="0"></iframe>
+                </div>
+        <span class="category">
+            Sex Ed
+        </span>
+    <a href="/humillacion/">
+        <h3>Fotografías y humillación erótica </h3>
+    </a>
+    <p class="post_content">La humillación erótica se refiere a la dinámica sexual de un juego de rol, en...</p>
+    <span class="date"><i class="fa fa-calendar"></i> February 07, 2022</span>
+</article>
+
+        
         <article>
                 <div class="video_container">
                     <iframe src="https://www.pornhub.com/embed/ph61bc018a995c7" scrolling="no" allowfullscreen="" width="500" height="281" frameborder="0"></iframe>
