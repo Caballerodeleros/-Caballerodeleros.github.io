@@ -2,7 +2,7 @@
 author: Caballero Del Eros
 type: vimeo
 vimeo-embed: <iframe src="https://www.pornhub.com/embed/ph6201b137a2f85" frameborder="0" width="500" height="281" scrolling="no" allowfullscreen></iframe>
-title: MANDAR FOTOGRAFÍAS Y HUMILLACIÓN ERÓTICA
+title: Fotografías y humillación erótica
 homedisplay: iframe
 category: [Sex Ed]
 ---
