@@ -6,5 +6,5 @@ title: Fotografías y humillación erótica
 homedisplay: iframe
 category: [Sex Ed]
 ---
-La humillación erótica se refiere a la dinámica sexual de un juego de rol, en la cual se posiciona a una de las partes en una posición de sumisión e inferioridad con fines de estimulación sexual. Por lo cual, se recomienda que al practicar cualquiera de sus variantes, esta debe ser plenamente consensuada.  
+La humillación erótica se refiere a la dinámica sexual de un juego de rol, en la cual se posiciona a una de las partes en un estado de sumisión e inferioridad con fines de estimulación sexual. Por lo cual, se recomienda que al practicar cualquiera de sus variantes, esta debe ser plenamente consensuada.  
 Te invito a que veas esta capsula de video para saber más al respecto.
