@@ -18,6 +18,21 @@ Tal como si lo platicaras con tu mejor amigo, como si tuvieras un **sexólogo de
         
         <article>
                 <div class="video_container">
+                    <iframe src="https://www.pornhub.com/embed/ph6237cf993dc5a" scrolling="no" allowfullscreen="" width="500" height="281" frameborder="0"></iframe>
+                </div>
+        <span class="category">
+            Sex Ed
+        </span>
+    <a href="/alargamiento/">
+        <h3>Técnicas De Alargamiento</h3>
+    </a>
+    <p class="post_content">El alargamiento del pene generalmente se refiere al uso de las manos o de un dispositivo para....</p>
+    <span class="date"><i class="fa fa-calendar"></i> March 21, 2022</span>
+</article>
+
+        
+        <article>
+                <div class="video_container">
                     <iframe src="https://www.pornhub.com/embed/ph6209a050b0567" scrolling="no" allowfullscreen="" width="500" height="281" frameborder="0"></iframe>
                 </div>
         <span class="category">
