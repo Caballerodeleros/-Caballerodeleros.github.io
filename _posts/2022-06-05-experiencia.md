@@ -6,5 +6,5 @@ title: Tengo menos experiencia sexual que mi pareja.
 homedisplay: iframe
 category: [Sex Ed]
 ---
-Algunos varones pueden sentirse incomodos o intimidados ante la idea de que se pareja haya tenido más parejas sexuales previo a ellos. ¿Qué se esconde detrás de este malestar?
+Algunos varones pueden sentirse incomodos o intimidados ante la idea de que su pareja haya tenido más parejas sexuales previo a ellos. ¿Qué se esconde detrás de este malestar?
 Te invito a reflexionar en este tema en este video.
