@@ -18,8 +18,6 @@ Tal como si lo platicaras con tu mejor amigo, como si tuvieras un **sexólogo de
         
             <article>
                 <div class="video_container">
-                    <article>
-                <div class="video_container">
                     <iframe src="https://www.pornhub.com/embed/ph629d675233b86" scrolling="no" allowfullscreen="" width="500" height="281" frameborder="0"></iframe>
                 </div>
         <span class="category">
@@ -30,6 +28,7 @@ Tal como si lo platicaras con tu mejor amigo, como si tuvieras un **sexólogo de
     </a>
     <p class="post_content">Algunos varones pueden sentirse incomodos o intimidados ante la idea de que se pareja haya...</p>
     <span class="date"><i class="fa fa-calendar"></i> June 05, 2022</span>
+</article>
         
         
         <article>
